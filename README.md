@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Kim%20Suehyun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Kim%20Suehyun&fontSize=60)
 
 <h3 align="center">📌 Tech Stack 📌</h3>
 
