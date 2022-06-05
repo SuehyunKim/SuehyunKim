@@ -5,9 +5,10 @@
 <br>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-f0db4f?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-1f232a?style=flat-square&logo=React&logoColor=61dafb"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-1f232a?style=flat-square&logo=React&logoColor=61dafb"/></a>&nbsp   
   <img src="https://img.shields.io/badge/Python-4b8bbe?style=flat-square&logo=Python&logoColor=ffd43b"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
 </p>
